@@ -1,0 +1,85 @@
+commit 7bedc0179664ac47031f95e7a7a38840858a848b
+Author: varun guzza <90117.reddy@students.itu.edu>
+Date:   Fri Apr 29 01:09:52 2016 +0530
+
+    deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 56de11a..ecf62aa 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,4 +1,5 @@
+ varun guzza
+ software engineering
+ favourite movie ashiqui
+-favourite restuarant panda express 
+\ No newline at end of file
++favourite restuarant panda express 
++favourite color red
+\ No newline at end of file
+
+commit 5606ca8b18a5cf0b1e0756fbe0f7f7cb13e653c3
+Author: varun guzza <90117.reddy@students.itu.edu>
+Date:   Fri Apr 29 00:57:10 2016 +0530
+
+    added expected graduation date and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..5a614ff
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++jan 2017, software admin
+\ No newline at end of file
+
+commit 5c6cab80f4b5ded9dd5cddf564c564a802bcf7bd
+Author: varun guzza <90117.reddy@students.itu.edu>
+Date:   Fri Apr 29 00:32:24 2016 +0530
+
+    added favourite restuarant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 2ff11bf..56de11a 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,4 @@
+ varun guzza
+-software engineering
+\ No newline at end of file
++software engineering
++favourite movie ashiqui
++favourite restuarant panda express 
+\ No newline at end of file
+
+commit 39827f8f2a60e824f3c35df0a0aaafd02815bfdd
+Author: varun guzza <90117.reddy@students.itu.edu>
+Date:   Fri Apr 29 00:25:08 2016 +0530
+
+    has my major
+
+diff --git a/file1.txt b/file1.txt
+index 4798685..2ff11bf 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-varun guzza  90117
+\ No newline at end of file
++varun guzza
++software engineering
+\ No newline at end of file
+
+commit f833f914a80157c1194e822a42ab2e375e9cc4bb
+Author: varun guzza <90117.reddy@students.itu.edu>
+Date:   Fri Apr 29 00:10:11 2016 +0530
+
+    commiting the new file with varun guzza
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..4798685
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++varun guzza  90117
+\ No newline at end of file
